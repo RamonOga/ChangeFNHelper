@@ -1,16 +1,12 @@
-package ru.context;
+package ru.core.context;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.annotation.ComponentScan;
-import ru.db.ClientStorage;
-import ru.model.CashRegister;
-import ru.model.Client;
-import ru.model.FiscalAccumulator;
-import ru.model.FiscalAccumulatorVersion;
+import ru.core.db.ClientStorage;
+import ru.core.model.CashRegister;
+import ru.core.model.Client;
+import ru.core.model.FiscalAccumulator;
+import ru.core.model.FiscalAccumulatorVersion;
 
-import java.time.LocalDateTime;
-import java.util.Date;
 import java.util.List;
 
 

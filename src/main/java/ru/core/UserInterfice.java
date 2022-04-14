@@ -1,4 +1,4 @@
-package ru;
+package ru.core;
 
 import java.util.Scanner;
 

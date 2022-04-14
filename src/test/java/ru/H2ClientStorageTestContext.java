@@ -3,9 +3,9 @@ package ru;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
-import ru.db.ClientStorage;
-import ru.db.H2ClientStorage;
-import ru.db.H2ConfigurationFactory;
+import ru.core.db.ClientStorage;
+import ru.core.db.H2ClientStorage;
+import ru.core.db.H2ConfigurationFactory;
 
 @Configuration
 @PropertySource("application.properties")

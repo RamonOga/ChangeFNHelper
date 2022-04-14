@@ -1,4 +1,4 @@
-package ru.aspects;
+package ru.core.aspects;
 
 import org.aspectj.lang.annotation.Aspect;
 

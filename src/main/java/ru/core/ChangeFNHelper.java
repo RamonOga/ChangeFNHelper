@@ -1,4 +1,6 @@
-package ru;
+package ru.core;
+
+import ru.core.Menu;
 
 public class ChangeFNHelper
 {

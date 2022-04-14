@@ -1,7 +1,7 @@
-package ru.services;
+package ru.core.services;
 
-import ru.model.CashRegister;
-import ru.model.FiscalAccumulator;
+import ru.core.model.CashRegister;
+import ru.core.model.FiscalAccumulator;
 
 public class CashRegisterService {
     public static void registration(CashRegister register, FiscalAccumulator fiscal) {

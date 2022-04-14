@@ -1,15 +1,13 @@
-package ru.services;
+package ru.core.services;
 
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.model.CashRegister;
-import ru.model.FiscalAccumulator;
-import ru.model.FiscalAccumulatorVersion;
+import ru.core.model.CashRegister;
+import ru.core.model.FiscalAccumulator;
+import ru.core.model.FiscalAccumulatorVersion;
 
 import java.util.Date;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CashRegisterServiceTest {
 

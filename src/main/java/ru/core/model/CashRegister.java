@@ -1,4 +1,4 @@
-package ru.model;
+package ru.core.model;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;

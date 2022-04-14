@@ -22,8 +22,8 @@
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">create</property>
 
-        <mapping class="ru.model.Client"/>
-        <mapping class="ru.model.CashRegister"/>
-        <mapping class="ru.model.FiscalAccumulator"/>
+        <mapping class="ru.core.model.Client"/>
+        <mapping class="ru.core.model.CashRegister"/>
+        <mapping class="ru.core.model.FiscalAccumulator"/>
     </session-factory>
 </hibernate-configuration>

@@ -1,6 +1,6 @@
-package ru.db;
+package ru.core.db;
 
-import ru.model.Client;
+import ru.core.model.Client;
 
 import java.time.LocalDateTime;
 import java.util.List;

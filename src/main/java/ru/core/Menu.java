@@ -1,4 +1,6 @@
-package ru;
+package ru.core;
+
+import ru.WorkWithDB;
 
 public class Menu {
 

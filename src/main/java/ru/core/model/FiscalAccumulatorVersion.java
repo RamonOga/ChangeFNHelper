@@ -1,4 +1,4 @@
-package ru.model;
+package ru.core.model;
 
 import java.util.Map;
 

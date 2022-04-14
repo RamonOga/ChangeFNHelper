@@ -1,6 +1,4 @@
-package ru.factories;
-
-import javax.transaction.NotSupportedException;
+package ru.core.factories;
 
 public class ClientBuildFactory {
     private ClientBuildFactory clientBuildFactory = new ClientBuildFactory();

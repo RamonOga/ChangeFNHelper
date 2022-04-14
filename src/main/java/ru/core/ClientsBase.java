@@ -1,6 +1,6 @@
-package ru;
+package ru.core;
 
-import ru.model.Client;
+import ru.core.model.Client;
 
 import java.util.ArrayList;
 import java.util.List;

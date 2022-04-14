@@ -1,10 +1,10 @@
-package ru.db;
+package ru.core.db;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 import org.springframework.stereotype.Service;
-import ru.model.Client;
+import ru.core.model.Client;
 
 @Service
 public class H2ConfigurationFactory implements AutoCloseable {
